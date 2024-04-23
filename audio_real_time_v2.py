@@ -1,3 +1,7 @@
+""" Author: Shamika Likhite
+contact: shamilikhite@gmail.com/ shamikalikhite20242u.northwestern.edu"""
+
+
 import pyaudio
 import wave
 import os
